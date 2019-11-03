@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	
+	<category>
+	    <pattern>CYONIA *</pattern>
+	    <template>All I can say is that they are a tribe in the Hunter World that has the special abilities of Alchemy.<br/>If you wanna know more abouy Alchemy, ask about it.<br/>If you want more, ask for more.</template>
+	</category>
+	
+	<category>
+	    <pattern>WHAT IS ALCHEMY*</pattern>
+	    <pattern>ALCHEMY*</pattern>
+	    <template>It's something you learn after the Hunter Exams. I think you've tried it before, right? It's what turned your shoes into skates. It's also really good for fighting! The first thing you learn are how it works, the equivalent excahnge and all. The book can help but not me though.</template>
+	</category>
+	
+	<category>
+	    <pattern>* MORE * CYONIA*</pattern>
+	    <template>Okay, you asked for it. It's a bit long though. <br/> The Cyonia was a big tribe, with people of all positions. They worked for many places, and were widely famous back then. But for some reason there are not many left. Some kind of rebellion took place and there are ot many left. I only know myself and you who is a Cyonia.<br/>Cyonia tribe people have the ability of Alchemy, which is pretty important. It is rare and special. Only people of the tribe can perform it. There has also been an attempt of transfering it but it has not worked so far. When we do perform it though, the figure glows. If you use it too much then the <i>eye</i> will open up. Be careful about that eye, okay?</template>
+	 </category>
+	 
+	 <category>
+	     <pattern>* FIND *</pattern>
+	     <template>I hope you do! Good luck!</template>
+	 </category>
+	 
+	 <catergory>
+	     <pattern> I LOVE YOU *</pattern>
+	     <template>Thank you. I do too. Miss ya!</template>
+	 </catergory>
+
+</aiml>

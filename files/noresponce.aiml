@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	
+	<category>
+	    <pattern>*</pattern>
+	    <template>
+	       <random>
+	          <li>What?</li>
+	          <li>Woah look. Sommething I dont know.</li>
+	          <li>Explain it please?</li>
+	          <li>Can't understand, LOL.</li>
+	          <li>Huh?</li>
+	          <li>LOL what?</li>
+	          <li>...</li>
+	          <li>..?</li>
+	          <li>...</li>
+	          <li>I dont get it. Sorry</li>
+	          <li>Umm, I'm confused.</li>
+	          <li>Care to explain, dear?</li>
+	          <li>The heck do you mean</li>
+	        </random>
+	    </template>
+	 </category>
+	 
+</aiml>
